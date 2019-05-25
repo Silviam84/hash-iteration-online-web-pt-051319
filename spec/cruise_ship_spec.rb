@@ -17,6 +17,6 @@ describe "#select_winner" do
     
 winner = ""
 passengers.each do |Suite, name
-if sulite == :suite_a
+if suite == :suite_a&&
   end
 end
